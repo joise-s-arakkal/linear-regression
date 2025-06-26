@@ -75,5 +75,3 @@ Source: [Kaggle - House Price Prediction Dataset](https://www.kaggle.com/dataset
 - How evaluation metrics like R², MAE, and MSE indicate model performance
 - Difference between **simple** and **multiple** regression models
 - How to visualize model accuracy and interpret results
-
----
